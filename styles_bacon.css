@@ -1,0 +1,27 @@
+/*****************************TAG SELECTORS********************************/
+  h1 {
+    color: #187498;
+    font-family: Papyrus;
+    font-size: 50px;
+  }
+
+/*
+  img{
+    background-color: #FFCD38;
+  }
+
+*/
+
+/***************************CLASS SELECTORS******************************/
+
+.bacon{
+    background-color: #FFCD38;
+}
+
+.brocolli{
+    background-color: #C7D36F;
+}
+
+.circular{
+    border-radius: 100%;
+}
